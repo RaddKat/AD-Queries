@@ -1,4 +1,4 @@
-# AD Queries
+# AD-Queries
 
 A repository for scripts designed to query Active Directory.
 
